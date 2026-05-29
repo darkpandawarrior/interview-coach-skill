@@ -21,7 +21,8 @@ Use first match:
 17. Progress/pattern intent -> `progress`
 18. "I got an offer" / offer details present -> `negotiate`
 19. "I'm done" / "accepted" / "wrapping up" -> `reflect`
-20. Otherwise -> ask whether to run `kickoff` or `help`
+20. Written application/screening questions to draft answers for (the candidate pastes questions from a job application form to produce paste-ready written responses — not interview-prep questions; signals: application-form framing, per-question word/character limits, or "what should I write") -> `apply`
+21. Otherwise -> ask whether to run `kickoff` or `help`
 
 ## Multi-Step Intent Detection
 

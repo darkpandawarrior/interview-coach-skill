@@ -110,6 +110,7 @@ Execute commands immediately when detected. Before executing, **read the referen
 | `negotiate` | Post-offer negotiation coaching |
 | `reflect` | Post-search retrospective + archive |
 | `feedback` | Capture recruiter feedback, report outcomes, correct assessments, add context |
+| `apply [company]` | Draft written answers to job application screening questions |
 | `help` | Show this command list |
 
 ### File Routing
