@@ -1,6 +1,6 @@
 # Interview Coach
 
-A Claude Code-based interview coach that covers the full job search lifecycle — from JD analysis and resume optimization through mock interviews to post-offer negotiation. 23 commands across application materials, interview prep, practice, analysis, and comp coaching. It scores your answers across five dimensions, diagnoses root causes behind weak spots, builds a storybank you can retrieve under pressure, and adapts its coaching to your specific patterns. Not a generic question bank. An adaptive system that gets sharper the more you use it.
+A Claude Code-based interview coach that covers the full job search lifecycle — from JD analysis and resume optimization through mock interviews to post-offer negotiation. 25 commands across application materials, interview prep, practice, analysis, and comp coaching. It scores your answers across five dimensions, diagnoses root causes behind weak spots, builds a storybank you can retrieve under pressure, and adapts its coaching to your specific patterns. Not a generic question bank. An adaptive system that gets sharper the more you use it.
 
 Say `kickoff`, share your resume, and you're being coached in under 2 minutes.
 
@@ -447,6 +447,13 @@ interview-coach-skill/
     ├── story-mapping-engine.md         # Portfolio-optimized story mapping with fit scoring
     ├── calibration-engine.md           # Scoring drift detection, root cause tracking, success patterns
     ├── challenge-protocol.md           # Five-lens challenge framework (Level 5 only): assumption audit, blind spot scan, pre-mortem, devil's advocate, strengthening path
+    ├── archival-rules.md               # Score History / Session Log / Interview Intelligence archival thresholds
+    ├── coaching-state-schema.md        # coaching_state.md format reference
+    ├── coaching-voice.md               # Coaching tone and delivery rules
+    ├── evidence-sourcing.md            # Claim verification + source-tier standard for company-specific claims
+    ├── mode-detection.md               # Quick Prep vs. Full System mode detection
+    ├── schema-migration.md             # Schema migration checks for older coaching_state.md files
+    ├── state-update-triggers.md        # Rules for when coaching_state.md gets updated
     └── examples.md                     # Worked examples: scored answers, triage, rewrites, system design analysis
 ```
 
